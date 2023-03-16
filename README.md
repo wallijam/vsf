@@ -1,1 +1,1 @@
-# vsf
+# Nuxt VSF
